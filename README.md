@@ -4,6 +4,7 @@
 aimaiこと、藤田あいりです。<br />
 デザインの知識もある、フロントエンドエンジニアを目指しています。
 <br />
+<br />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=aimai2529)
 
@@ -16,6 +17,7 @@ aimaiこと、藤田あいりです。<br />
 
 ### 使用経験があるもの
 [![使用経験があるスキル](https://skillicons.dev/icons?i=ae,pr,php,threejs,p5js,firebase&perline=8)]()
+<br />
 <br />
 ## 📫 SNS
 	![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)(https://x.com/aimai2529)
