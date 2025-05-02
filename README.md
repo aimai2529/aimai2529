@@ -16,7 +16,7 @@ aimaiこと、藤田あいりです。<br />
 [![自信のあるスキル](https://skillicons.dev/icons?i=ai,ps,figma,html,css,sass,js&perline=8)]()
 
 ### 使用経験があるもの
-[![使用経験があるスキル](https://skillicons.dev/icons?i=ae,pr,php,threejs,p5js,firebase&perline=8)]()
+[![使用経験があるスキル](https://skillicons.dev/icons?i=ae,pr,php,threejs,p5js&perline=8)]()
 <br />
 <br />
 ## 📫 SNS
