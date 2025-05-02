@@ -4,8 +4,11 @@
 aimaiこと、藤田あいりです。<br />
 デザインの知識もある、フロントエンドエンジニアを目指しています。
 <br />
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=aimai2529)
+
 <br />
+
 ## 🛠️ スキル
 
 ### 自信のあるもの
