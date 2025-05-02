@@ -20,7 +20,8 @@ aimaiこと、藤田あいりです。<br />
 <br />
 <br />
 ## 📫 SNS
-	[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/aimai2529)
+
+ [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/aimai2529)
  
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fujita.airi2229@gmail.com)
  
